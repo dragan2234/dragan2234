@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a software engineer with 7 years of professional experience, currently doing blockchains and applied cryptography full-time since November 2022.
+I'm a software engineer who turned into the blockchain and applied cryptography industry in 2022. having previously specialized as a Drupal developer (from 2016.).
 
-Currently I'm part of Ethereum Protocol Fellowship where I'm learning more about verkle tries data structure and implementing it for Hyperledge Besu ethereum execution client. The other "research" project that I'm doing is thinking and designing verkle tries in-zk-circuit. Dirty write-up is here: https://hackmd.io/l2XvogKoQOCH748T1rdWZw
+Currently, I'm part of the Ethereum Protocol Fellowship where I'm learning more about verkle tries data structure and implementing it for Hyperledge Besu ethereum execution client. The other "research" project that I'm doing is thinking and designing verkle tries in-zk-circuit. The dirty write-up is here: https://hackmd.io/l2XvogKoQOCH748T1rdWZw
 
 Check out my work:
 
