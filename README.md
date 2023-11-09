@@ -4,15 +4,13 @@ I'm a software engineer with 7 years of professional experience, currently doing
 
 Currently I'm part of Ethereum Protocol Fellowship where I'm learning more about verkle tries data structure and implementing it for Hyperledge Besu ethereum execution client. The other "research" project that I'm doing is thinking and designing verkle tries in-zk-circuit. Dirty write-up is here: https://hackmd.io/l2XvogKoQOCH748T1rdWZw
 
-Some of the interesting repos/projects I've been contributing to:
+Check out my work:
 
-- verkle tries for besu
-- cairo-lang
-- kakarot zkevm
-- reth
-- lambdaworks cryptography library
-- zama.ai
-- evm.codes
+- verkle tries for besu https://github.com/Quadratic-Labs/VerkleTries_Besu/pulls?q=is%3Apr+author%3Adragan2234+is%3Aclosed
+- cairo-lang https://github.com/starkware-libs/cairo-lang/pull/144
+- kakarot zkevm https://github.com/kkrt-labs/kakarot/pulls?q=is%3Apr+is%3Aclosed+author%3Adragan2234
+- lambdaworks cryptography library - https://github.com/lambdaclass/lambdaworks/pull/513 
+- zama.ai - https://github.com/dragan2234/sha2-256-fhe
 
 Feel free to reach out via Twitter or Linkedin if you are interested in chatting about cryptography, zero-knowledge proofs, and blockchains.
 
