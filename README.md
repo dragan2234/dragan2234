@@ -7,7 +7,7 @@ Currently, I'm part of the Ethereum Protocol Fellowship where I'm learning more 
 Check out my work:
 
 - verkle trie rust cryptography library: https://github.com/crate-crypto/rust-verkle/pulls?q=is%3Apr+author%3Adragan2234+is%3Aclosed
-- verkle tries for besu https://github.com/Quadratic-Labs/VerkleTries_Besu/pulls?q=is%3Apr+author%3Adragan2234+is%3Aclosed
+- verkle trie for besu ethereum execution client https://github.com/Quadratic-Labs/VerkleTries_Besu/pulls?q=is%3Apr+author%3Adragan2234+is%3Aclosed
 - cairo-lang https://github.com/starkware-libs/cairo-lang/pull/144
 - kakarot zkevm https://github.com/kkrt-labs/kakarot/pulls?q=is%3Apr+is%3Aclosed+author%3Adragan2234
 - lambdaworks cryptography library - https://github.com/lambdaclass/lambdaworks/pull/513 
